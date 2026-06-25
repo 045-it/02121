@@ -1,10 +1,10 @@
 import React from 'react'
 
-export default function Home () {
+export default function Contact() {
   return (
     <div>
       <center>
-      Home Page
+        Contact Page
       </center>
     </div>
   )
